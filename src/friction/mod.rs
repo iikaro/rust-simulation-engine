@@ -1,4 +1,3 @@
-
 pub mod utils {
     pub fn calc_reynolds(rho: f64, mu: f64, length: f64, v: f64) -> f64 {
         rho * v * length / mu

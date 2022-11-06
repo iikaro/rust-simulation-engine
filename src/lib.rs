@@ -1,1 +1,1 @@
-pub mod friction;
+mod algebra;
